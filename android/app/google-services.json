@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151597196870",
+    "firebase_url": "https://activity6brew.firebaseio.com",
+    "project_id": "activity6brew",
+    "storage_bucket": "activity6brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151597196870:android:c9bab1f0f1672591fb8c47",
+        "android_client_info": {
+          "package_name": "com.example.brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151597196870-vk56suv1blu9aeeiaqrb0tl4bg266gkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA181pmN2_hhMHCy275m5I17vMqXWzFP-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151597196870-vk56suv1blu9aeeiaqrb0tl4bg266gkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
